@@ -1,0 +1,13 @@
+node_modules
+.eslintignore
+.eslintrc
+.github
+.idea
+.travis.yml
+test_blog
+.babelrc
+jest.config.js
+tests_coverage
+codecov.yml
+src
+.DS_Store
